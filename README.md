@@ -29,4 +29,4 @@
 ```bash
 python 1etap.py --package requests
 ```
-<img width="334" height="105" alt="image" src="https://github.com/user-attachments/assets/0afcb888-281c-4c6f-b5b9-9b21eb7cefb7" />
+<img width="479" height="116" alt="image" src="https://github.com/user-attachments/assets/fc1afe08-007c-40a8-a707-0d141a36ef57" />
